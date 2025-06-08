@@ -23,7 +23,7 @@
 
 
 
-1. **Open [https://bookie-sever.vercel.app] in your browser**
+1. **Open [https://bookie-saver.vercel.app] in your browser**
    
 
 2. **Add to Home Screen** (on mobile)  
